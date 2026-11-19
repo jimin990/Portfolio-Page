@@ -1,0 +1,29 @@
+/* 색상은 이 파일에서 수정하세요. 각 섹션의 배경 / 글자 / 강조색입니다. */
+:root {
+  /* 사이드바 배경과 글자 */
+  --sidebar-bg: #1b242b;
+  --sidebar-text: #e4e9e7;
+  /* 소개: bg=배경, text=글자, accent=강조색 */
+  --intro-bg: #222d34;
+  --intro-text: #e4e9e7;
+  --intro-accent: #aac8b8;
+  /* 기술 섹션 */
+  --skills-bg: #263239;
+  --skills-text: #e4e9e7;
+  --skills-accent: #b0c5d4;
+  /* 프로젝트 섹션 */
+  --projects-bg: #222c32;
+  --projects-text: #e4e9e7;
+  --projects-accent: #aac8b8;
+  /* 자격증 섹션 */
+  --certifications-bg: #263239;
+  --certifications-text: #e4e9e7;
+  --certifications-accent: #b0c5d4;
+  /* 경력 섹션 */
+  --experience-bg: #222d34;
+  --experience-text: #e4e9e7;
+  --experience-accent: #aac8b8;
+  /* 공통 보조 글자와 구분선. 배경을 바꿀 때 가독성도 확인하세요. */
+  --muted: #b0bdc3;
+  --line: #435158;
+}
